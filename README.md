@@ -42,7 +42,7 @@ $ sudo apt-get install libmraa-dev
 # 3. Building and Running:
 
 ``` shell
-$ git clone https://github.com/96boards/projects.git
+$ git clone https://github.com/96boards-projects/accel.git
 $ cd projects
 $ cd accel
 $ make
