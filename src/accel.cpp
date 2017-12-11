@@ -1,5 +1,6 @@
  
 /*
+ * Title: Accelerometer interfacing with 96Boards CE
  * Author: Manivannan Sadhasivam
  * Copyright (c) 2017 Linaro Inc.
  * All rights reserved.

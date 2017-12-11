@@ -46,7 +46,7 @@ $ git clone https://github.com/96boards-projects/accel.git
 $ cd projects
 $ cd accel
 $ make
-$ ./bin
+$ ./accel
 ```
 
 # 4. Conclusion:

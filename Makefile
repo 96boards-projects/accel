@@ -5,6 +5,6 @@ CXXFLAGS := -Wall -Wextra -g
 all:accel
 
 accel:
-	@$(CC) $(CFLAGS) accel.cpp -o bin $(LDFLAGS)
+	@$(CC) $(CFLAGS) src/accel.cpp -o accel $(LDFLAGS)
 clean:
-	rm -f ./bin
+	@rm -f ./accel
